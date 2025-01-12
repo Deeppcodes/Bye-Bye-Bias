@@ -1,3 +1,1 @@
-Flask==2.1.1
-openai==0.28.0
-flask-cors==3.1.1
+Flask==3.1.0
